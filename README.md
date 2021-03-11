@@ -10,10 +10,18 @@ Citi Bike Tableau Public: [link to dashboard](https://public.tableau.com/profile
 
 ## Results ##
 ![](https://github.com/shivam0921/bikesharing/blob/main/images/Citi%20Bike%20Module%20Analysis.png)
+
 **The Statistics in The Dashboard Shows you the Overall Picture of Data for Month of August. The Top Down Dasboard shows overall Trips Followed by Peak Hours and the Maps Shows most used Start and End Station**
 
+
 ![](https://github.com/shivam0921/bikesharing/blob/main/images/TIme%20And%20Gender%20Based%20Analysis.png)
+
+**This Page Shows use the overall usage of Bike in the Month of August and  a breakdown by Gender Type (Male, Female, Unknown)**
+
+
 ![](https://github.com/shivam0921/bikesharing/blob/main/images/Trips%20By%20Weekday%20And%20Gender%20Based%20Analysis.png)
+**Trips By Weekday and Gender Based Page Helps us to analysis which are the busiest day of the week and which Gender Type uses the most service. As in the second heat map depicts Men uses the most service.**
+
 
 
 ## Summary ##
